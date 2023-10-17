@@ -1,0 +1,11 @@
+.formReg {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius : 10px;
+    border : solid #000000 2px;
+}
+
+span {
+    font-style: italic;
+}
